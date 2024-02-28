@@ -23,8 +23,6 @@
 			<div class="grid-item">{rowIndex + 1}</div>  
 		{/each}
 	</div>
-	
-	
 </main>
 
 <style>
